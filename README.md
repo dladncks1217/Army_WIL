@@ -16,4 +16,5 @@ HTTP 트랜잭션 지연과 커넥션 관리: https://blog.naver.com/dlaxodud238
 HTTP/1.0+의 Keep-Alive 커넥션, HTTP/1.1의 지속 커넥션과 파이프라인 커넥션: https://blog.naver.com/dlaxodud2388/221914655332
 ***
 쿠키 - 세션쿠키(Session Cookie), 지속쿠키(Persistent Cookie) : https://blog.naver.com/dlaxodud2388/221917137726
-
+***
+[HTTP] 콘텐츠 인코딩(Content-Encoding), Accept-Encoding 헤더 : https://blog.naver.com/dlaxodud2388/221928144324

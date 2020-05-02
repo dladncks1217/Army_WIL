@@ -18,3 +18,5 @@ HTTP/1.0+의 Keep-Alive 커넥션, HTTP/1.1의 지속 커넥션과 파이프라�
 쿠키 - 세션쿠키(Session Cookie), 지속쿠키(Persistent Cookie) : https://blog.naver.com/dlaxodud2388/221917137726
 ***
 [HTTP] 콘텐츠 인코딩(Content-Encoding), Accept-Encoding 헤더 : https://blog.naver.com/dlaxodud2388/221928144324
+***
+[HTTP] 전송 인코딩과 청크 인코딩 : https://m.blog.naver.com/dlaxodud2388/221929856397

@@ -22,3 +22,5 @@ HTTP/1.0+의 Keep-Alive 커넥션, HTTP/1.1의 지속 커넥션과 파이프라�
 [HTTP] 전송 인코딩과 청크 인코딩 : https://m.blog.naver.com/dlaxodud2388/221929856397
 ***
 [Java] 일정하지 않은 개수의 매개변수 (parameter ...) : https://dlaxodud2388.blog.me/221946366561
+***
+[Java] 상속(extends) : https://m.blog.naver.com/dlaxodud2388/221956914076

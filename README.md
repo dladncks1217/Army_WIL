@@ -24,3 +24,5 @@ HTTP/1.0+의 Keep-Alive 커넥션, HTTP/1.1의 지속 커넥션과 파이프라�
 [Java] 일정하지 않은 개수의 매개변수 (parameter ...) : https://dlaxodud2388.blog.me/221946366561
 ***
 [Java] 상속(extends) : https://m.blog.naver.com/dlaxodud2388/221956914076
+***
+[Node.js] Cheerio-httpcli와 jsdom을 이용한 간단한 크롤링 : https://blog.naver.com/dlaxodud2388/221964793185

@@ -30,3 +30,5 @@ HTTP/1.0+의 Keep-Alive 커넥션, HTTP/1.1의 지속 커넥션과 파이프라�
 [Java 오류] 오버라이딩시 Unresolved compilation problem:  The return type is incompatible with... : https://blog.naver.com/dlaxodud2388/221965763562
 ***
 [GIT] 로컬 저장소와 github 원격 저장소 연동하기, 최초 커밋(commit)+푸시(push)하기 : https://blog.naver.com/dlaxodud2388/221967035375
+***
+[GIT] git add 취소하기 : https://blog.naver.com/dlaxodud2388/221967285595

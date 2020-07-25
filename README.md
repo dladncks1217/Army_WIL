@@ -34,3 +34,5 @@ HTTP/1.0+의 Keep-Alive 커넥션, HTTP/1.1의 지속 커넥션과 파이프라�
 [GIT] git add 취소하기 : https://blog.naver.com/dlaxodud2388/221967285595
 ***
 [GIT] git commit 취소하기 : https://blog.naver.com/dlaxodud2388/221968546308
+***
+[GIT] git push 취소하기 : https://blog.naver.com/dlaxodud2388/221968648162

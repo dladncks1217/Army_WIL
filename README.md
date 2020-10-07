@@ -86,6 +86,8 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
 ***
 [OS] 인터럽트(Interrupt)와 인터럽트 서비스 루틴(Interrupt Service Routine) : https://dlaxodud2388.blog.me/222105999484
 ***
+[OS] 시스템 콜 (System Call) : https://dlaxodud2388.blog.me/222109716596
+***
 ## 9. 기타
 [오류모음] npm : 'npm' 용어가 cmdlet, 함수, 스크립트 파일 또는 실행할 수 있는 프로그램 이름으로 인식되지 않습니다... : https://dlaxodud2388.blog.me/222102392025
 ***

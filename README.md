@@ -107,3 +107,4 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
 ***
 (2020) 7.06 ~ 9.20 : https://dlaxodud2388.blog.me/222094712256
 ***
+(2020) 9.21 ~ 11.13 : https://blog.naver.com/dlaxodud2388/222143390637

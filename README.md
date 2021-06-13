@@ -9,35 +9,35 @@
   
 ## 1. HTTP
 URL 문법과 구조, 단축 URL : https://blog.naver.com/dlaxodud2388/221902637855  
-***
+
 TCP 커넥션 - TCP세그먼트와 IP 패킷 : https://blog.naver.com/dlaxodud2388/221909155973
-***  
+
 TCP 커넥션 - TCP 커넥션 유지 : https://blog.naver.com/dlaxodud2388/221909561025 
-*** 
+
 HTTP 트랜잭션 지연과 커넥션 관리: https://blog.naver.com/dlaxodud2388/221911833454
-***
+
 HTTP/1.0+의 Keep-Alive 커넥션, HTTP/1.1의 지속 커넥션과 파이프라인 커넥션: https://blog.naver.com/dlaxodud2388/221914655332
-***
+
 쿠키 - 세션쿠키(Session Cookie), 지속쿠키(Persistent Cookie) : https://blog.naver.com/dlaxodud2388/221917137726
-***
+
 [HTTP] 콘텐츠 인코딩(Content-Encoding), Accept-Encoding 헤더 : https://blog.naver.com/dlaxodud2388/221928144324
-***
+
 [HTTP] 전송 인코딩과 청크 인코딩 : https://m.blog.naver.com/dlaxodud2388/221929856397
-***
+
 HTTP 응답코드 413(PayloadTooLargeError: request entity too large) 원인, 해결 : https://dlaxodud2388.blog.me/222007509565
-***
+
 [HTTP] TCP커넥션의 핸드셰이크와 TCP커넥션 핸드셰이크의 지연 : https://dlaxodud2388.blog.me/222034025759
-***
+
 [HTTP] 편승(piggyback)확인응답과 확인 응답 지연 : https://dlaxodud2388.blog.me/222034044640
-***
+
 [HTTP] TCP의 느린 시작 : https://dlaxodud2388.blog.me/222034054487
-***
+
 [HTTP] 504 Gateway Timeout을 발생시킬 수 있는 Keep-Alive와 멍청한(dumb) 프락시 : https://dlaxodud2388.blog.me/222042540929
-***
+
 HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/222094707066
-***
+
 [HTTP] 같은 리소스를 새로고침하면 왜 상태코드가 200이 아닌 304가 나올까? (HTTP상태코드 200과 304의 차이점) : https://dlaxodud2388.blog.me/222096928136
-***
+
   
 </div>
 </details>
@@ -49,8 +49,18 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
   
 ## 2. Node.js
 [Node.js] Cheerio-httpcli와 jsdom을 이용한 간단한 크롤링 : https://blog.naver.com/dlaxodud2388/221964793185
-***
-
+  
+[Node.js] 서버사이드 템플릿 엔진 EJS : https://blog.naver.com/dlaxodud2388/222111402593
+  
+[Node.js] bcryptjs모듈 사용, 단점(bcrypt 모듈 설치가 안될 때) : https://blog.naver.com/dlaxodud2388/222111435862
+  
+[Node.js] Kakao API를 이용하여 지도 띄우기 : https://blog.naver.com/dlaxodud2388/222112124693  
+  
+[Node.js] dotenv 사용법 (Node.js 기반 환경변수 사용) : https://blog.naver.com/dlaxodud2388/222112141894  
+  
+[Node.js] passport-kakao모듈을 이용한 Kakao 소셜 로그인 구현하기 : https://blog.naver.com/dlaxodud2388/222128029071
+  
+  
   
 </div>
 </details>
@@ -63,17 +73,17 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
   
   ## 3. GIT
 [GIT] 로컬 저장소와 github 원격 저장소 연동하기, 최초 커밋(commit)+푸시(push)하기 : https://blog.naver.com/dlaxodud2388/221967035375
-***
+
 [GIT] git add 취소하기 : https://blog.naver.com/dlaxodud2388/221967285595
-***
+
 [GIT] git commit 취소하기 : https://blog.naver.com/dlaxodud2388/221968546308
-***
+
 [GIT] git push 취소하기 : https://blog.naver.com/dlaxodud2388/221968648162
-***
+
 [Git 오류] Git pull 충돌시 해결방법(Your local changes would be overwritten by merge.) : https://blog.naver.com/dlaxodud2388/221969611951
-***
+
 [Git 오류] ![rejected] master -> master (fetch first) 에러 해결방법 : https://m.blog.naver.com/dlaxodud2388/221972440239
-***
+
 
   
 </div>
@@ -84,17 +94,17 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
 <div markdown="1">
 
 ## 4. Java
-***
+
 [Java] 일정하지 않은 개수의 매개변수 (parameter ...) : https://dlaxodud2388.blog.me/221946366561
-***
+
 [Java] 상속(extends) : https://m.blog.naver.com/dlaxodud2388/221956914076
-***
+
 [Java 오류] 오버라이딩시 Unresolved compilation problem:  The return type is incompatible with... : https://blog.naver.com/dlaxodud2388/221965763562
-***
+
 [Java 오류] java.lang.NullPointerException : https://dlaxodud2388.blog.me/221985293264
-***
+
 [Java 오류] java.lang.IndexOutOfBoundsException 오류 : https://dlaxodud2388.blog.me/222006889384
-***
+
 
 </div>
 </details>
@@ -105,12 +115,12 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
   
   ## 5. DB
 [Mysql 오류] Error Code: 1175. You are using safe update mode and you tried to update... 해결 : https://dlaxodud2388.blog.me/222014713660
-***
+
 [Mysql 오류] Error Code: 1046. No database selected Select the default DB to be used by... 해결 : https://dlaxodud2388.blog.me/222014717774
-***
+
 [Mysql] Auto_increment 재정렬 : https://dlaxodud2388.blog.me/222014734195
-***
-  
+
+[Mysql 오류] Error Code: 1175, Error Code: 1046 해결 : https://blog.naver.com/dlaxodud2388/222122607300
 </div>
 </details>
 
@@ -133,7 +143,28 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
   
   ## 7. JavaScript
 [JavaScript] 팩토리 메서드 패턴(factory method pattern) : https://dlaxodud2388.blog.me/222057026591
-***
+
+[JavaScript] 자바스크립트 호이스팅의 동작 원리와 let, var 변수선언방식의 차이점 : https://blog.naver.com/dlaxodud2388/222129465156
+  
+[JavaScript] 콜 스택(Call Stack)과 실행 컨텍스트(Execution Context) : https://blog.naver.com/dlaxodud2388/222132114552  
+  
+[JavaScript] Array.prototype의 map(), reduce(), filter() : https://blog.naver.com/dlaxodud2388/222133783184
+  
+[JavaScript] Array.prototype.forEach() 메서드: https://blog.naver.com/dlaxodud2388/222134821490
+  
+[JavaScript] Set, 특정 데이터타입만 Set에 저장하기 : https://blog.naver.com/dlaxodud2388/222149122128
+  
+[JavaScript] 자바스크립트의 프로토타입을 이용한 상속 구현 : https://blog.naver.com/dlaxodud2388/222150072763
+  
+[JavaScript] ES6의 Class키워드의 동작원리에 대해 알아보자. : https://blog.naver.com/dlaxodud2388/222150133429
+  
+[JavaScript] 클로저(closure)의 개념과 클로저를 이용한 캡슐화(encapsulation) :  https://blog.naver.com/dlaxodud2388/222150877668
+  
+[JavaScript] 명시적 변수와 암묵적 전역 변수 : https://blog.naver.com/dlaxodud2388/222154600907
+  
+[JavaScript] strict mode(use strict) : https://blog.naver.com/dlaxodud2388/222154621203
+  
+  
   
 </div>
 </details>
@@ -144,11 +175,15 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
 
   ## 8. OS
 [OS] 부트스트랩 로더(Bootstrap Loader) : https://dlaxodud2388.blog.me/222105963737
-***
+
 [OS] 인터럽트(Interrupt)와 인터럽트 서비스 루틴(Interrupt Service Routine) : https://dlaxodud2388.blog.me/222105999484
-***
+
 [OS] 시스템 콜 (System Call) : https://dlaxodud2388.blog.me/222109716596
-***
+
+[OS] 프로세스 상태(Process State) : https://blog.naver.com/dlaxodud2388/222122625579
+  
+[OS] Context Switching Overhead (문맥교환 오버헤드) : https://blog.naver.com/dlaxodud2388/222157287867
+  
   
 </div>
 </details>

@@ -3,7 +3,10 @@
 
 공부한 내용을 개인 블로그에 정리하였습니다.
 주소: https://blog.naver.com/dlaxodud2388
-
+<details>
+<summary>HTTP</summary>
+<div markdown="1">
+  
 ## 1. HTTP
 URL 문법과 구조, 단축 URL : https://blog.naver.com/dlaxodud2388/221902637855  
 ***
@@ -35,20 +38,30 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
 ***
 [HTTP] 같은 리소스를 새로고침하면 왜 상태코드가 200이 아닌 304가 나올까? (HTTP상태코드 200과 304의 차이점) : https://dlaxodud2388.blog.me/222096928136
 ***
-## 2. Java
-***
-[Java] 일정하지 않은 개수의 매개변수 (parameter ...) : https://dlaxodud2388.blog.me/221946366561
-***
-[Java] 상속(extends) : https://m.blog.naver.com/dlaxodud2388/221956914076
-***
-[Java 오류] 오버라이딩시 Unresolved compilation problem:  The return type is incompatible with... : https://blog.naver.com/dlaxodud2388/221965763562
-***
-[Java 오류] java.lang.NullPointerException : https://dlaxodud2388.blog.me/221985293264
-***
-[Java 오류] java.lang.IndexOutOfBoundsException 오류 : https://dlaxodud2388.blog.me/222006889384
+  
+</div>
+</details>
+
+
+<details>
+<summary>Node.js</summary>
+<div markdown="1">
+  
+## 2. Node.js
+[Node.js] Cheerio-httpcli와 jsdom을 이용한 간단한 크롤링 : https://blog.naver.com/dlaxodud2388/221964793185
 ***
 
-## 3. GIT
+  
+</div>
+</details>
+
+
+  
+<details>
+<summary>GIT</summary>
+<div markdown="1">
+  
+  ## 3. GIT
 [GIT] 로컬 저장소와 github 원격 저장소 연동하기, 최초 커밋(commit)+푸시(push)하기 : https://blog.naver.com/dlaxodud2388/221967035375
 ***
 [GIT] git add 취소하기 : https://blog.naver.com/dlaxodud2388/221967285595
@@ -61,40 +74,103 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
 ***
 [Git 오류] ![rejected] master -> master (fetch first) 에러 해결방법 : https://m.blog.naver.com/dlaxodud2388/221972440239
 ***
-## 4. Node.js
-[Node.js] Cheerio-httpcli와 jsdom을 이용한 간단한 크롤링 : https://blog.naver.com/dlaxodud2388/221964793185
+
+  
+</div>
+</details>
+
+<details>
+<summary>JAVA</summary>
+<div markdown="1">
+
+## 4. Java
+***
+[Java] 일정하지 않은 개수의 매개변수 (parameter ...) : https://dlaxodud2388.blog.me/221946366561
+***
+[Java] 상속(extends) : https://m.blog.naver.com/dlaxodud2388/221956914076
+***
+[Java 오류] 오버라이딩시 Unresolved compilation problem:  The return type is incompatible with... : https://blog.naver.com/dlaxodud2388/221965763562
+***
+[Java 오류] java.lang.NullPointerException : https://dlaxodud2388.blog.me/221985293264
+***
+[Java 오류] java.lang.IndexOutOfBoundsException 오류 : https://dlaxodud2388.blog.me/222006889384
 ***
 
-## 5. DB
+</div>
+</details>
+
+<details>
+<summary>DB</summary>
+<div markdown="1">
+  
+  ## 5. DB
 [Mysql 오류] Error Code: 1175. You are using safe update mode and you tried to update... 해결 : https://dlaxodud2388.blog.me/222014713660
 ***
 [Mysql 오류] Error Code: 1046. No database selected Select the default DB to be used by... 해결 : https://dlaxodud2388.blog.me/222014717774
 ***
 [Mysql] Auto_increment 재정렬 : https://dlaxodud2388.blog.me/222014734195
 ***
+  
+</div>
+</details>
 
+<details>
+<summary>Spring</summary>
+<div markdown="1">
+  
 ## 6. Spring
 [Spring] DAO 리팩토링과 템플릿 메서드 패턴(Template method pattern), 팩토리 메서드 패턴(Factory method pattern) : https://dlaxodud2388.blog.me/222057027432
 ***
 [Spring] System.out.println()을 이용한 디버그용 로그가 서버 성능에 미치는 영향과 해결방법 : https://dlaxodud2388.blog.me/222084116507
 ***
-## 7. JavaScript
+
+</div>
+</details>
+
+<details>
+<summary>HTTP</summary>
+<div markdown="1">
+  
+  ## 7. JavaScript
 [JavaScript] 팩토리 메서드 패턴(factory method pattern) : https://dlaxodud2388.blog.me/222057026591
 ***
-## 8. OS
+  
+</div>
+</details>
+
+<details>
+<summary>OS</summary>
+<div markdown="1">
+
+  ## 8. OS
 [OS] 부트스트랩 로더(Bootstrap Loader) : https://dlaxodud2388.blog.me/222105963737
 ***
 [OS] 인터럽트(Interrupt)와 인터럽트 서비스 루틴(Interrupt Service Routine) : https://dlaxodud2388.blog.me/222105999484
 ***
 [OS] 시스템 콜 (System Call) : https://dlaxodud2388.blog.me/222109716596
 ***
-## 9. 기타
+  
+</div>
+</details>
+
+<details>
+<summary>기타</summary>
+<div markdown="1">
+  
+  ## 9. 기타
 [오류모음] npm : 'npm' 용어가 cmdlet, 함수, 스크립트 파일 또는 실행할 수 있는 프로그램 이름으로 인식되지 않습니다... : https://dlaxodud2388.blog.me/222102392025
 ***
 [기타] Github 프로필에 방문자 수 띄우기 : https://dlaxodud2388.blog.me/222105311346
 ***
+  
+</div>
+</details>
 
-## 10. 회고 및 계획(이웃용)
+<details>
+<summary>회고 및 계획</summary>
+<div markdown="1">
+  
+## 10. 회고 및 계획
 입대 : https://dlaxodud2388.blog.me/221824806038
 ***
 (2020) 3.03 ~ 4.11 : https://dlaxodud2388.blog.me/221903697140
@@ -108,3 +184,13 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
 (2020) 7.06 ~ 9.20 : https://dlaxodud2388.blog.me/222094712256
 ***
 (2020) 9.21 ~ 11.13 : https://blog.naver.com/dlaxodud2388/222143390637
+
+</div>
+</details>
+
+
+
+
+
+
+

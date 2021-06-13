@@ -138,7 +138,7 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
 </details>
 
 <details>
-<summary>HTTP</summary>
+<summary>JavaScript</summary>
 <div markdown="1">
   
   ## 7. JavaScript

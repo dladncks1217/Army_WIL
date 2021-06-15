@@ -60,7 +60,23 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
   
 [Node.js] passport-kakao모듈을 이용한 Kakao 소셜 로그인 구현하기 : https://blog.naver.com/dlaxodud2388/222128029071
   
+[Node.js] Ajax를 이용한 비동기 통신 : https://blog.naver.com/dlaxodud2388/222158985691
   
+[Node.js] 콜백 헬(callback hell)과 프로미스(Promise) : https://blog.naver.com/dlaxodud2388/222162200994
+  
+[Node.js] qrcode 모듈을 이용한 QRcode 생성 : https://blog.naver.com/dlaxodud2388/222167369800
+  
+[Node.js] Express 서버 성능 향상을 위한 Gzip 적용 : https://blog.naver.com/dlaxodud2388/222188619485
+  
+[Node.js] Node.js 서버 성능 개선을 위한 클러스터링(Clustering) : https://blog.naver.com/dlaxodud2388/222196528936
+  
+[Node.js] Node.js 는 정말 싱글스레드일까? : https://blog.naver.com/dlaxodud2388/222211896601
+  
+[Node.js] libuv의 이벤트 루프(Event Loop)에 대해 알아보자! : https://blog.naver.com/dlaxodud2388/222218703957
+  
+[Node.js] setTimeout(), setImmediate(), process.nextTick()의 차이점 : https://blog.naver.com/dlaxodud2388/222229554720
+  
+[Node.js] V8 엔진의 메모리 구조와 가비지 컬렉션(Garbage Collection)의 동작원리 : https://blog.naver.com/dlaxodud2388/222307876737
   
 </div>
 </details>
@@ -84,7 +100,7 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
 
 [Git 오류] ![rejected] master -> master (fetch first) 에러 해결방법 : https://m.blog.naver.com/dlaxodud2388/221972440239
 
-
+[GIT] Git의 동작 원리 : https://blog.naver.com/dlaxodud2388/222321875323
   
 </div>
 </details>
@@ -164,7 +180,27 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
   
 [JavaScript] strict mode(use strict) : https://blog.naver.com/dlaxodud2388/222154621203
   
+[JavaScript] Lexical Scope(static scope)와 Dynamic Scope : https://blog.naver.com/dlaxodud2388/222164234610
   
+[JavaScript] eval()사용을 피해야 하는 이유 : https://blog.naver.com/dlaxodud2388/222164268980
+  
+[JavaScript 오류] 'RangeError : Maxmum call stack size exceeded' 발생원인 및 해결 : https://blog.naver.com/dlaxodud2388/222187409586
+  
+[JavaScript] ('b'+'a'+ +'a'+'a').toLowerCase() 가 왜 "banana"일까? : https://blog.naver.com/dlaxodud2388/222189731481
+  
+[JavaScript] 이터레이터(Iterator)와 배열(Array)의 차이점 : https://blog.naver.com/dlaxodud2388/222204370243
+  
+[JavaScript] Spread 연산자와 Rest 파라미터 : https://blog.naver.com/dlaxodud2388/222206547420
+  
+[JavaScript] 실행 컨텍스트(Execution Context)를 통해 알아본 호이스팅(Hoisting) 현상의 발생 원인과 이를 통한 let과 var의 차이 : https://blog.naver.com/dlaxodud2388/222238394694
+  
+[JavaScript] 추상 구문 트리(Abstract Syntax Tree) : https://blog.naver.com/dlaxodud2388/222260114774
+  
+[JavaScript] 자바스크립트 엔진들의 히든 클래스(Hidden Class)개념과 코드 실행 최적화를 위한 인라인 캐싱(Inline Caching) : https://blog.naver.com/dlaxodud2388/222263604696
+  
+[JavaScript] const 를 이용한 변수 선언은 정말 값이 변하지 않을까? : https://blog.naver.com/dlaxodud2388/222267766717
+  
+[JavaScript] TDZ(Temporal Dead Zone) : https://blog.naver.com/dlaxodud2388/222284235839
   
 </div>
 </details>
@@ -184,6 +220,21 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
   
 [OS] Context Switching Overhead (문맥교환 오버헤드) : https://blog.naver.com/dlaxodud2388/222157287867
   
+[OS] 스케줄링 알고리즘 SJF : https://blog.naver.com/dlaxodud2388/222162155941
+  
+[OS] Priority Scheduling(우선순위 스케줄링) : https://blog.naver.com/dlaxodud2388/222164268980
+  
+[OS] RR(Round-Robin)스케줄링 : https://blog.naver.com/dlaxodud2388/222166315601
+  
+[OS] 임계구역(Critical-Section)문제 해결과 세마포어(Semaphore) : https://blog.naver.com/dlaxodud2388/222201325948
+  
+[OS] 자원 할당 그래프(Resource Allocation Graph) : https://blog.naver.com/dlaxodud2388/222243568457
+  
+[OS] 교착상태(DeadLock)와 교착상태의 해결방법 : https://blog.naver.com/dlaxodud2388/222248445474
+  
+[OS] 메모리 낭비 방지를 위한 동적 적재(Dynamic Loading), 동적 연결(Dynamic Linking), 스와핑(Swapping) : https://blog.naver.com/dlaxodud2388/222375954613
+  
+[OS] 외부 메모리 단편화(External Fragmentation)과 연속 메모리 할당방식 최초적합(First-fit) 최적적합(Best-fit) 최악적합(Worst-fit) : https://blog.naver.com/dlaxodud2388/222399647477
   
 </div>
 </details>
@@ -219,7 +270,13 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
 (2020) 7.06 ~ 9.20 : https://dlaxodud2388.blog.me/222094712256
 ***
 (2020) 9.21 ~ 11.13 : https://blog.naver.com/dlaxodud2388/222143390637
-
+***
+(2020) 2020년 회고 : https://blog.naver.com/dlaxodud2388/222183171412
+***
+(2021) 01.01 ~ 02.15 :https://blog.naver.com/dlaxodud2388/222244875767
+***
+(2021) 02.16 ~ 03.28 : https://blog.naver.com/dlaxodud2388/222290788654
+  
 </div>
 </details>
 

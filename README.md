@@ -1,7 +1,9 @@
 # Army_Weekly I Leared
 >군대에서 공부한 내용을 정리한 레포지토리입니다.
-
 공부한 내용을 개인 블로그에 정리하였습니다.
+
+>작성 게시글 수 : 95  (20.03.03~)
+
 주소: https://blog.naver.com/dlaxodud2388
 <details>
 <summary>HTTP</summary>

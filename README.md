@@ -2,7 +2,7 @@
 >군대에서 공부한 내용을 정리한 레포지토리입니다.
 공부한 내용을 개인 블로그에 정리하였습니다.
 
->작성 게시글 수 : 95  (20.03.03~)
+>작성 게시글 수 : 107  (20.03.03~)
 
 주소: https://blog.naver.com/dlaxodud2388
 <details>
@@ -238,6 +238,7 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
   
 [OS] 외부 메모리 단편화(External Fragmentation)과 연속 메모리 할당방식 최초적합(First-fit) 최적적합(Best-fit) 최악적합(Worst-fit) : https://blog.naver.com/dlaxodud2388/222399647477
   
+[OS] 메모리 관리기법 페이징(Paging) : https://blog.naver.com/dlaxodud2388/222400685312
 </div>
 </details>
 
@@ -255,10 +256,40 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
 </details>
 
 <details>
+<summary>Algorithm</summary>
+<div markdown="1">
+  
+  ## 10. Algorithm
+[프로그래머스] K번째 수 (JavaScript) : https://blog.naver.com/dlaxodud2388/222154649697
+  
+[프로그래머스] 완주하지 못한 선수(JavaScript) : https://blog.naver.com/dlaxodud2388/222154653151
+  
+[프로그래머스] 두 개 뽑아서 더하기(JavaScript) : https://blog.naver.com/dlaxodud2388/222154659902
+  
+[프로그래머스] 완주하지 못한 선수(JavaScript) : https://blog.naver.com/dlaxodud2388/222155602036
+  
+[프로그래머스] 2016년(JavaScript) : https://blog.naver.com/dlaxodud2388/222155632187
+  
+[프로그래머스] 나누어 떨어지떨어지는 숫자 배열(JavaScript) : https://blog.naver.com/dlaxodud2388/222155644344
+  
+[프로그래머스] 체육복(JavaScript) : https://blog.naver.com/dlaxodud2388/222164192977
+  
+[프로그래머스] 키패드 누르기(JavaScript) : https://blog.naver.com/dlaxodud2388/222187451951
+  
+[프로그래머스] 위장 (해시)(JavaScript) : https://blog.naver.com/dlaxodud2388/222190834216
+  
+[프로그래머스] 가장 큰 수(JavaScript) : https://blog.naver.com/dlaxodud2388/222355185390
+  
+[프로그래머스] 자릿수 더하기(JavaScript) : https://blog.naver.com/dlaxodud2388/222355213882
+  
+</div>
+</details>
+
+<details>
 <summary>회고 및 계획</summary>
 <div markdown="1">
   
-## 10. 회고 및 계획
+## 11. 회고 및 계획
 입대 : https://dlaxodud2388.blog.me/221824806038
 ***
 (2020) 3.03 ~ 4.11 : https://dlaxodud2388.blog.me/221903697140

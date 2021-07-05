@@ -239,6 +239,8 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
 [OS] 외부 메모리 단편화(External Fragmentation)과 연속 메모리 할당방식 최초적합(First-fit) 최적적합(Best-fit) 최악적합(Worst-fit) : https://blog.naver.com/dlaxodud2388/222399647477
   
 [OS] 메모리 관리기법 페이징(Paging) : https://blog.naver.com/dlaxodud2388/222400685312
+  
+[OS] TLB(Translation Lookaside Buffer)와 유효 접근 시간(Effective Access Time) : https://blog.naver.com/dlaxodud2388/222421486813
 </div>
 </details>
 

@@ -2,7 +2,7 @@
 >군대에서 공부한 내용을 정리한 레포지토리입니다.
 공부한 내용을 개인 블로그에 정리하였습니다.
 
->작성 게시글 수 : 107  (20.03.03~)
+>작성 게시글 수 : 110  (20.03.03~21.07.31)
 
 주소: https://blog.naver.com/dlaxodud2388
 <details>
@@ -284,6 +284,8 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
   
 [프로그래머스] 자릿수 더하기(JavaScript) : https://blog.naver.com/dlaxodud2388/222355213882
   
+[프로그래머스] JadenCase 문자열 만들기(JavaScript) : https://blog.naver.com/dlaxodud2388/222401621683
+  
 </div>
 </details>
 
@@ -311,6 +313,8 @@ HTTP 응답코드 404 (Not Found) 오류 : https://dlaxodud2388.blog.me/22209470
 (2021) 01.01 ~ 02.15 :https://blog.naver.com/dlaxodud2388/222244875767
 ***
 (2021) 02.16 ~ 03.28 : https://blog.naver.com/dlaxodud2388/222290788654
+  
+20.03.03~21.07.31(군생활) 회고 및 계획 : https://blog.naver.com/dlaxodud2388/222452335097
   
 </div>
 </details>
